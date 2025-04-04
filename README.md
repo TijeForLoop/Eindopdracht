@@ -1,2 +1,19 @@
 # Eindopdracht
-beep boop this is a test
+Process:
+dit is mijn eindopdracht voor informatica. als eindproduct heb ik een BubbleSort algorythme geschreven in de codeertaal “Prolog” 
+ik ben hierbij begonnen met het domein op fundament volgen. hiervoor moest ik eerst C# leren te gebruiken. hiervan zie je een oefening van mij staan die je het beste kan openen in een programma als replit.
+Hoger en lager en hoger en lager V2. hierna kreeg ik de opdracht om het programma visual studio 2022 te gebruiken. dit het ik gedaan en daar heb ik mee geoeffend. mijn progressie hiervan vind je in de .Zip bestanden.
+nadat ik dit programma onder de knie had kwam ik er achter dat de rest van het domein niet meer hiermee werkte. wat me erg verwarde. ik moest dus een heel nieuwe programmeertaal leren: Prolog, deze taal ik heel anders dan waar ik aan gewend ben door python en nu ook C#. namenlijk dit programma heeft een compleet andere logica. het is gebasseerd op het concept van "Regels en Feiten". dit maakt de taal erg efficient maar complex. dit duurde mij lang om onder de knie te krijgen. mijn oefeningen hiervoor vind je als de .PL bestanden (alle behalve het zo gelabelde eindproduct) dit was een lastig process en koste me veel trial and error.
+
+Eindproduct:
+voor het eindproduct heb ik uiteindelijk een soorterings algoryhtme geschreven, dat soorteerd een reeks van nummers uit een lijst. de vorm van sortering die ik gebruik heet "BubbleSort" 
+het is een erg korte code, dit komt omdat ik het zo efficient mogelijk wou coderen. dit is namelijk waar Prolog goed voor te gebruiken is.
+ik heb een aantal bronnen gebruikt voor mijn code: ik heb elementen van andere Codes genomen die op Fundament stonden omdat ik die eerder in code had gebruikt in mijn oefeningen, bvb de recursie code van fundament heb ik aangepast om in mijn code te laten werken. W3Schools had erg weinig over Prolog, maar tijdens de oefeningen voor C# heb ik daar wel gebruik van gemaakt. ik heb chatgpt benut om fouten uit mijn code te halen (grotendeels typfoutjes) en om de controle van de reeks efficienter te maken. ook heb ik chatGPT gebruikt om zeker te maken dat mijn hele code werkt zoals mijn bedoeling is. 
+
+reflexie
+ik vond dit een leuk project en ik ben over het algemeen bij met hoe het ging. natuurlijk kan ik toch wat verbeterpunten voor mijzelf benoemen: 
+Vanwegen mijn vorige SE week is dit project een beetje op mijn achtergrond beland waardoor ik een lange pauze in mijn progressie had dit veroorzaakte problemen met plannen en ik denk dat ik een beter of meer uitgebreid eindproduct had kunnen inleveren als ik hier beter op had gelet.
+ik vind het erg jammer dat ik weer niet correct met GitHub heb gewerkt, het was de bedoeling dat ik al mijn progressie zou opslaan op het moment dat ik het maakte, dit is helaas niet gelukt. ik denk dat mijn process hierdoor minder soepel is gegaan.
+deze keer alleen werken vond ik fijn, maar ook heel erg wennen. ik moest meer dingen zelf uitzoeken en bedenken. wat ik er wel fijn aan vond is dat alles mijn eigen verantwoordelijkheid was, dus als er iets fout ging zoals met mijn planning. is dat mijn eigen verantwoordelijkheid en moest en kon ik dat alleen maar goed maken met mezelf. (als dat duidelijk is) 
+ik had wat onduidelijkheid over de bedoeling van het domein wat me in verwarring bracht in het process. in fundament is het domein opgedeelt in 2 delen die los van elkaar staan: "applicaties met C#" en "Logisch programmeren met Prolog" ik was begonnen met de eerste maar ik kwam er erg laat achter dat dit niet helemaal is wat ik had verwacht voor dit domein en ben over gestapt naar Logisch programmeren met Prolog. dit heeft me tijd gekost, ik had hierbij beter moeten kijken naar wat het idee achter dit domein was.
+in kort: ik heb veel geleerd van dit project. zowel lessen geleerd van hoe ik een project beter kan aanpakken als een andere form van logische codeer taal. ik heb hier zeker wat van opgestoken.
